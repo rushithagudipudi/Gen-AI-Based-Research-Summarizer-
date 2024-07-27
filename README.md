@@ -15,9 +15,19 @@ https://github.com/user-attachments/assets/ef9e4e6f-2cfb-4206-be3a-8882767a237e
 
 # What is a Research Paper Summarizer?
 Research paper summarizer is an AI-powered article summarizer tool designed to condense extensive academic papers into concise summaries.
-
 These summaries capture the critical points, key findings, and main arguments of a research article and represent them in the most succinct way possible. As a result, researchers quickly grasp the scope of the research paper without spending much time.
 
 # What are the benefits of research paper summarizers?
 AI summarizers or research paper summarizers are a revolutionary tool that is changing the conventional reading method of scholarly publishing. While the inception of research paper summarizers may seem like a radical shift. By embracing this technology aid, the academic community can manage the challenge of reading comprehension.
 
+# Project Execution 
+> # Packages Installation
+Pip install streamlit
+ 
+pip install elsapy
+
+pip install metaphor_python
+> # PUT SECRET KEY In code
+In final_code.py & function_three.py replace your secret key
+>  # Execution
+streamlit run final_code.py
